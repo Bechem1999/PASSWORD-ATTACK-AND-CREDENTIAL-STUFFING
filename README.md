@@ -342,3 +342,13 @@ By combining a local Flask authentication server, Python-based testing, and defe
 The exercise strengthened my understanding of **Python, Flask, authentication security, password attacks, defensive programming, and ethical cybersecurity testing**.
 
 ---
+
+# 👤 Author 
+
+Atemlefac Nkafu Bechem
+
+Cybersecurity Engineer
+
+LinkedIn: https://www.linkedin.com/in/atemlefac-nkafu-bechem-179987248
+
+📌 Project Information Program Name: Cybersecurity internship at SQROCK | Week: 02 | Project 7: Password Attacks & Credential Stuffing — Local Lab | Repository: GitHubing
